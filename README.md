@@ -1,4 +1,4 @@
-# Hi 👋, I'm Henil Calagiya
+# Hi 👋, I'm Henil C Alagiya
 
 ### Full Stack Developer & Software Engineer
 
