@@ -1,6 +1,6 @@
 # Hi 👋, I'm Henil C Alagiya
 
-### Full Stack Developer & Software Engineer
+### Full-Stack Software Engineer
 
 I'm a passionate developer with expertise in building modern web applications, AI-powered solutions, and scalable software systems. I love exploring cutting-edge technologies and creating innovative applications that solve real-world problems.
 
